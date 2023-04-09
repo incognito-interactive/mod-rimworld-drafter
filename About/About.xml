@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mod Meta Data -->
+<ModMetaData>
+	<!-- Information -->
+	<name>Drafter</name>
+	<author>Identity</author>
+	<description></description>
+
+	<!-- Package -->
+	<packageId>ID.Drafter</packageId>
+
+	<!-- Versions -->
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+</ModMetaData>

@@ -1,0 +1,6 @@
+C:\Users\Mathijs\Mods\Drafter\1.4\Source\Drafter\Drafter\obj\Debug\Drafter.csproj.AssemblyReference.cache
+C:\Users\Mathijs\Mods\Drafter\1.4\Source\Drafter\Drafter\obj\Debug\Drafter.csproj.CoreCompileInputs.cache
+C:\Users\Mathijs\Mods\Drafter\1.4\Source\Drafter\Drafter\bin\Debug\Drafter.dll
+C:\Users\Mathijs\Mods\Drafter\1.4\Source\Drafter\Drafter\bin\Debug\Drafter.pdb
+C:\Users\Mathijs\Mods\Drafter\1.4\Source\Drafter\Drafter\obj\Debug\Drafter.dll
+C:\Users\Mathijs\Mods\Drafter\1.4\Source\Drafter\Drafter\obj\Debug\Drafter.pdb
